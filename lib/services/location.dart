@@ -1,4 +1,3 @@
-import 'package:flutter/physics.dart';
 import 'package:geolocator/geolocator.dart';
 
 class Location {
